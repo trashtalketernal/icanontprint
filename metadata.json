@@ -1,0 +1,6 @@
+{
+  "name": "Canon PRINT Pro & Scan Suite",
+  "description": "Streamlined Canon PRINT clone with advanced scan batching, blank page skipping, multi-document splitting, remote destination sync, Gemini AI handwriting OCR, and integrated document manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
