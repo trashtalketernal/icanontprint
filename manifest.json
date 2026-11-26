@@ -1,18 +1,18 @@
 {
-  "name": "Canon PRINT Pro",
+  "name": "Canon PRINT",
   "short_name": "Canon PRINT",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#990000",
-  "theme_color": "#990000",
+  "background_color": "#F4F5F7",
+  "theme_color": "#CC0000",
   "icons": [
     {
-      "src": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=192&q=80",
+      "src": "/src/assets/images/canon_printer_unit_1795678946293.jpg",
       "sizes": "192x192",
       "type": "image/jpeg"
     },
     {
-      "src": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=512&q=80",
+      "src": "/src/assets/images/canon_printer_unit_1795678946293.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
